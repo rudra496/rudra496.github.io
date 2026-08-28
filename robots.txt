@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rudra496.github.io/site/sitemap.xml
+Sitemap: https://rudra496.github.io/site2/sitemap.xml
