@@ -3,3 +3,23 @@ Allow: /
 
 Sitemap: https://rudra496.github.io/site/sitemap.xml
 Sitemap: https://rudra496.github.io/site2/sitemap.xml
+Sitemap: https://rudra496.github.io/ai-code-trust-validator/sitemap.xml
+Sitemap: https://rudra496.github.io/cityguardai/sitemap.xml
+Sitemap: https://rudra496.github.io/cnc/sitemap.xml
+Sitemap: https://rudra496.github.io/codevista/sitemap.xml
+Sitemap: https://rudra496.github.io/devroadmaps/sitemap.xml
+Sitemap: https://rudra496.github.io/EdgeBrain/sitemap.xml
+Sitemap: https://rudra496.github.io/hyper-reason/sitemap.xml
+Sitemap: https://rudra496.github.io/jhutpass/sitemap.xml
+Sitemap: https://rudra496.github.io/loveyoumom/sitemap.xml
+Sitemap: https://rudra496.github.io/nexus-agent/sitemap.xml
+Sitemap: https://rudra496.github.io/prism-edge/sitemap.xml
+Sitemap: https://rudra496.github.io/science/sitemap.xml
+Sitemap: https://rudra496.github.io/sightlineai/sitemap.xml
+Sitemap: https://rudra496.github.io/SignLanguage-Dataset-Hub/sitemap.xml
+Sitemap: https://rudra496.github.io/spark/sitemap.xml
+Sitemap: https://rudra496.github.io/termmind/sitemap.xml
+Sitemap: https://rudra496.github.io/worldsim-ai/sitemap.xml
+Sitemap: https://rudra496.github.io/ytf/sitemap.xml
+Sitemap: https://rudra496.github.io/zai/sitemap.xml
+Sitemap: https://stealthhumanizer.vercel.app/sitemap.xml
